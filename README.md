@@ -18,5 +18,5 @@ Python 3.6+
 ## 🚀 Quick Start
 1. Clone this repo
 ```bash
-git clone https://github.com/IAmEoDAndIWasLazy/desktop-sorter.git
+git clone https://github.com/IAmEoDAndIWasLazy/TinyDesktopShorter-MaybeGood-
 cd desktop-sorter
