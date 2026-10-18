@@ -4,6 +4,8 @@ My Desktop just messy.So I decide do this thing.You may need it
 > Simple desktop file sorter written in Python.
 自动整理桌面文件，按文件类型归类，一键清理杂乱桌面。
 
+###### ⚠️ 本项目只是我个人自用工具，不打算长期维护，不保证修复bug、不接受feature请求，想用可以自己克隆修改，使用Unlicense公开
+
 #### ✨ Features
 - 🗂️ 按后缀自动分类：图片 / 文档 / 视频 / 音频 / 压缩包 / 程序 / 其他
 - 👀 预览模式：先列出所有将要移动的文件，确认后才操作，安全不翻车
