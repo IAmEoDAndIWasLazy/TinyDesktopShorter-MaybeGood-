@@ -21,9 +21,9 @@ Python 3.6+
 git clone https://github.com/IAmEoDAndIWasLazy/TinyDesktopShorter-MaybeGood-
 cd desktop-sorter
 ```
-##🚀 How to Run（Detailed Tutorial）
+## 🚀 How to Run（Detailed Tutorial）
  
-#1. Install Python
+#1 . Install Python
  
 1. Download Python: python.org/downloads
 
@@ -35,9 +35,9 @@ cd desktop-sorter
  
 If Python version appears, the installation is successful.
  
-#2. Run the script
+# 2. Run the script
  
-##Method 1: Command line run (Recommended)
+## Method 1: Command line run (Recommended)
  
 1. Download this project file  desktop_sorter.py 
 
@@ -45,15 +45,15 @@ If Python version appears, the installation is successful.
  
  
  
-#3. Execute the program
+# 3. Execute the program
  
  
  
-##Method 2: Double-click to run (Windows lazy mode)
+## Method 2: Double-click to run (Windows lazy mode)
  
 Directly double-click  desktop_sorter.py  to start.
  
-#3. Operation steps
+# 3. Operation steps
  
 1. The program will automatically scan your desktop and list all files to be sorted
 
@@ -63,7 +63,7 @@ Directly double-click  desktop_sorter.py  to start.
 
 4. Input any other key → Cancel operation (no file changes)
  
-##📦 Custom Rules
+## 📦 Custom Rules
  
 Edit the config area in the code to add/delete file suffixes:
  
@@ -71,7 +71,7 @@ Edit the config area in the code to add/delete file suffixes:
  
 Add file names you want to ignore to  IGNORE_LIST .
  
-##🎯 Pack to EXE (Optional)
+## 🎯 Pack to EXE (Optional)
  
 Make a single exe file, run on any Windows computer without Python:
  
@@ -79,7 +79,7 @@ Make a single exe file, run on any Windows computer without Python:
  
 The executable file is in the  dist  folder.
  
-##⚠️ Safety Instructions
+## ⚠️ Safety Instructions
  
 - This program will never delete any files
 
