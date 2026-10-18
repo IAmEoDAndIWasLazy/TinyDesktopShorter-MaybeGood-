@@ -20,7 +20,7 @@ Python 3.6+
 ```bash
 git clone https://github.com/IAmEoDAndIWasLazy/TinyDesktopShorter-MaybeGood-
 cd desktop-sorter
-
+```
 ##🚀 How to Run（Detailed Tutorial）
  
 #1. Install Python
