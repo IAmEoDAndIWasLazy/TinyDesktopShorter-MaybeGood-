@@ -58,22 +58,7 @@ Directly double-click  desktop_sorter.py  to start.
 
 4. Input any other key → Cancel operation (no file changes)
  
-## 📦 Custom Rules
- 
-Edit the config area in the code to add/delete file suffixes:
- 
- 
- 
-Add file names you want to ignore to  IGNORE_LIST .
- 
-## 🎯 Pack to EXE (Optional)
- 
-Make a single exe file, run on any Windows computer without Python:
- 
- 
- 
-The executable file is in the  dist  folder.
- 
+
 ## ⚠️ Safety Instructions
  
 - This program will never delete any files
